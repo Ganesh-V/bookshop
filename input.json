@@ -1,0 +1,17 @@
+[
+	{
+		"fileName":"input/Third Quality ISBN's.txt",
+		"quality":"3",
+		"company":"deepa"
+	},
+	{
+		"fileName":"input/First Quality ISBN's.txt",
+		"quality":"1",
+		"company":"deepa"
+	},
+	{
+		"fileName":"input/First and Second Quality ISBN's.txt",
+		"quality":"2",
+		"company":"deepa"
+	}
+]
